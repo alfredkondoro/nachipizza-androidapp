@@ -25,7 +25,7 @@ public class SignupActivity extends AppCompatActivity{
 
     private EditText txtUsername, txtPassword, txtEmail, txtCPassword;
     private Button buttonSignup;
-    private static final String URL_CREATE_ACCOUNT = "http://10.0.2.2/nachipizza/register.php";
+    private static final String URL_CREATE_ACCOUNT = "http://10.0.2.2/nachipizza/registeruser.php";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

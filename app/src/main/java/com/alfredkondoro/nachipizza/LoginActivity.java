@@ -25,7 +25,7 @@ import androidx.appcompat.app.AppCompatActivity;
 public class LoginActivity extends AppCompatActivity implements View.OnClickListener {
     private EditText txtUsername, txtPassword;
     private ProgressDialog progressDialog;
-    private static final String URL_LOGIN = "http://10.0.2.2/nachipizza/login.php";
+    private static final String URL_LOGIN = "http://10.0.2.2/nachipizza/userlogin.php";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
