@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "240770283391",
+    "firebase_url": "https://nachipizza-androidapp.firebaseio.com",
+    "project_id": "nachipizza-androidapp",
+    "storage_bucket": "nachipizza-androidapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240770283391:android:108009675e1ba9a0774c4a",
+        "android_client_info": {
+          "package_name": "com.alfredkondoro.nachipizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240770283391-sc8nd4uuj6e6ifl3dqo70op8bimfipfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkauZSWMY-k0aVgzKuLt7xVj2Cp1wJrL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240770283391-sc8nd4uuj6e6ifl3dqo70op8bimfipfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
